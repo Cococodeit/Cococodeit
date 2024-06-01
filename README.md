@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Cococodeit
-- 👀 I’m interested in ...music, fashion, and tech.
-- 🌱 I’m currently learning ... data analysis using Python, Jupyter nb, Numpy, and Pandas. ...AND Oracle ADB.
-- 💞️ I’m looking to collaborate on ... coding for data analysis.
+- 👋 Hi, I’m Camille aka @Cococodeit
+- 👀 I’m interested in ...music, fashion, sci fi, reading and tech.
+- 🌱 I’m currently learning ... AWS 
+- 💞️ I’m looking to collaborate on ... cloud computing.
 - 📫 How to reach me ... Find me on LinkedIn: /in/camillestair
 
 <!---
